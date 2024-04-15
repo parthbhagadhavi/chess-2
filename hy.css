@@ -1,0 +1,30 @@
+
+.a{
+    border: 2px solid black;
+
+    display: inline-block;
+
+}
+
+
+.s{
+    text-align: center;
+   
+    font-size: 70px;
+
+    background-color:white ;
+    height: 100px;
+    width: 105px;
+    margin:-10px ;
+    
+}
+.r{
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    background-color:black ;
+    height: 99px;
+    width: 100px;
+    margin: -10px;
+   
+}
